@@ -1,6 +1,6 @@
 # tetris-ts
  
-Tetris game like written in Typescript.
+Tetris game like written in pure Typescript, less than 50kB.
 
 ![s1](https://i.imgur.com/QfoIovP.png)
 
